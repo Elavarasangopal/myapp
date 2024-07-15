@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Events</title>
+        <link rel="icon" href="img/date.png">
+    </head>
+
+    <body bgcolor="blue" style="color: white;"> 
+        <center>
+            <h1>Upcoming Events 📅</h1>
+            <p1>Dont Miss any of your important events.Hence are the important events you have registered for!</p1>
+            <hr>
+            <p1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Qui commodi ut doloribus, labore soluta facere tempore dignissimos quae repellendus accusamus, tempora nihil aperiam laudantium repellat error totam ipsum asperiores odio ipsa! Quo vitae quibusdam, blanditiis explicabo illo commodi natus officiis aliquid cupiditate expedita ab rem laboriosam doloribus et consequatur optio recusandae inventore suscipit mollitia excepturi itaque tempora? Porro nisi magnam magni. Officiis dolores facere beatae rem explicabo cupiditate, qui corrupti blanditiis vel labore quibusdam iure quos, minima illo eum. Fuga optio rerum minus suscipit velit doloribus illo consequatur, commodi porro nulla labore corrupti sunt assumenda enim, libero fugit adipisci a.
+            </p1>
+        </center>
+
+        <center>
+            <img src="img/event1.png">
+            <h1>Photo Gallery Event</h1>
+            <h2>Free Entry|Free Food|Pets are Not Allowed</h2>
+            <p1>Event summaries typically include data and insights relating to attendance figures and demographics,as well as attendee behavior. They also summarize financial data, including expenses and revenue.that illustrate the performance of your event.that illustrate the performance of your event.
+                A post-event summary (also known as an event report) is an internal document that's used to provide stakeholders with data on how your event went. It includes your original goals and any metrics.that illustrate the performance of your event.that illustrate the performance of your event.</p1>
+        </center>
+
+        <center>
+            <img src="img/event2.png">
+            <h1>
+                <a href="https://www.meesho.com/">Fashion Store</a>
+            </h1>
+            <h2>Free Entry|Free Food|Pets are Not Allowed</h2>
+            <p1>Max Fashion has positioned its products at an economical Rs 129 per unit for kids and Rs199 onwards for youth. Shoppers Stop's Intune has priced its products at under Rs 500 per unit for men, women and children and so has Zudio.
+            </p1>
+            
+        </center>
+
+        <hr>
+
+        <center>
+            <h1>Contact</h1>
+            <h2>+91 7869873452|eventcollab@gmail.com</h2>
+            <p1>9th street Avenue Park,Trichy,625620</p1>
+        </center>
+
+    </body>
+</html>
+
